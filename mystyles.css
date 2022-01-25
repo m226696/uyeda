@@ -1,0 +1,35 @@
+h1.page-title{
+    font-size:xxx-large;
+}
+
+h1.center{
+    color:#009900; 
+    font-size:50px;
+    font-style:italic; 
+    text-align:center;
+}
+
+h2{
+    color:red; 
+    background-color: black; 
+    font-size: xxx-large;
+}
+
+li.one{
+    background-color: red;
+}
+li.two{
+    background-color: green;
+}
+li.three{
+    background-color: blue;
+}
+
+p.center{
+    text-align:center;
+}
+
+img.adjust{
+    height: 300px;
+    width:auto;
+}
